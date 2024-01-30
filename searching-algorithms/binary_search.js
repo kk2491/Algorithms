@@ -1,5 +1,6 @@
 "use strict";
 
+// Note: Not being used currently
 const isSortedArray = (inputArray) => {
   return new Promise((resolve, reject) => {
     for (let i = 0; i < inputArray.length; i++) {
